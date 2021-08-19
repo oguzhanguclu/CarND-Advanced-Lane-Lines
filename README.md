@@ -225,7 +225,7 @@ The resulting images demonstrating the lane, radius of curvature, and vehicle po
 
 ### Pipeline (video)
 
-A video result of the pipeline can be seen [here](./output_images/project_video_output.mp4) 
+A video result of the pipeline can be seen [here](https://www.youtube.com/watch?v=d9txF17nzBw).
 
 ---
 
