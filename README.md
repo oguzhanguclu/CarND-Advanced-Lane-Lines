@@ -1,5 +1,5 @@
 
-#### **Udacity Self-Driving Car Engineer Nanodegree Program**
+## **Udacity Self-Driving Car Engineer Nanodegree Program**
 ### **Advanced Lane Finding Project**
 
 The steps of this project are the following:
